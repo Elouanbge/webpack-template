@@ -11,6 +11,7 @@ module.exports = {
         contentBase: './dist',
         open: true,
         host: '0.0.0.0'
+        uselocalIp: true
     },
     plugins:
     [
